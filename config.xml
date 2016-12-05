@@ -9,6 +9,5 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <gap:plugin name="cordova-plugin-screenorientation-landscape" source="npm" />
     <plugin name="cordova-plugin-screenorientation-landscape" spec="1.0.22" />
 </widget>
