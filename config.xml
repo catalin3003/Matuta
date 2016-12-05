@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.zincmedia.formulaforthrillsportugal" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Formula for Thrills</name>
+    <description>
+        Formula for Thrills Portugal
+    </description>
+    <author email="catalin@redhearer.com" href="http://redhearer.com">
+        Zinc Media
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <gap:plugin name="cordova-plugin-screenorientation-landscape" source="npm" />
+    <plugin name="cordova-plugin-screenorientation-landscape" spec="1.0.22" />
+</widget>
