@@ -1,4 +1,6 @@
-# Formula for Thrills Portugal
+# A Blank PhoneGap App
+
+## Usage
 
 ### PhoneGap CLI
 

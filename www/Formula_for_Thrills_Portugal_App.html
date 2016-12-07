@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html manifest="Formula_for_Thrills_Portugal_App.hyperesources/cache.manifest">
   <head>
-    
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
 	<title>Formula_for_Thrills_Portugal_App</title>
@@ -16,8 +15,7 @@
 		}
 	</style>
 	<!-- copy these lines to your document head: -->
-      
-    
+
 	<meta name="viewport" content="user-scalable=yes, initial-scale=1.0, width=1024" />
 	<style>
 @font-face {
@@ -38,125 +36,13 @@
 	<script type="text/javascript" src="Formula_for_Thrills_Portugal_App.hyperesources/ThrillsHypeManager.js"></script>
 	<script type="text/javascript" src="Formula_for_Thrills_Portugal_App.hyperesources/ThrillsManager.js"></script>
 
-	
-	<style>
-
-
-.heightInput{
-color:#015578;
-width:100%;
-height:100%;
-
- -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;
-     
-font-size: 22pt; 
-text-align: center;
-font-family: 'roboto_slabbold', serif;
-border: 5px solid #AE245F
-}
-
-.maskImg{
-    -webkit-mask-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC);
-}
-
-.valign{ 
-
-
-display: -webkit-box !important;
-display: -webkit-flex !important;
-display: -moz-box !important;
-display: -ms-flexbox !important;
-display: flex !important;
--webkit-flex-align: center !important;
--ms-flex-align: center !important;
--webkit-align-items: center !important;
-align-items: center !important;
- -webkit-justify-content: center !important;
- justify-content: center !important;
-}
-
-#scalecontainer{
-	        -moz-transform-origin: left top;
-	        -webkit-transform-origin: left top;
-	        -ms-transform-origin: left top;
-	        -o-transform-origin: left top;
-	        transform-origin: left top;
-	        width: 2px;
-	        height: 1px;
-	        margin: 0 auto;
- }
-
-</style>
-	
-	<script type="text/javascript">
-var alsoenlarge = true;
-
-$( document ).ready(function() {
-    var iDiv = document.createElement('div');
-	iDiv.id = 'scalecontainer';
-	iDiv.className = 'scalecontainer';
-	document.body.appendChild(iDiv);
-	
-	$("#scalecontainer").append($( "div[id$='hype_container']" )); 
-});
-
-$(function(){
-    if(isScalePossible()){
-        $('body').css({overflow:'hidden'});
-        $('#scalecontainer').css({position: 'absolute', margin: 0});
-
-        // Run scale function on start
-        scaleSite();
-        scaleSite();
-
-        // Run scale function on browser resize
-        $(window).resize(scaleSite);
-    }
-});
-
-function scaleSite()
-{
-    containerw = window.innerWidth; // The width of the div, currently set to half of the window's width 
-    containerh = window.innerHeight; // The maximum possible height of the div; the recommend size for this is equal to or larger than the H of the element. 
-    sitew = $('#scalecontainer').width();
-    siteh = $('#scalecontainer').height();
-    f = containerw/sitew;
-    f = containerh/siteh<f?containerh/siteh:f;
-    if(!alsoenlarge && f>1) f = 1;
-    $('#scalecontainer').css({
-        "-moz-transform"    : "scale("+f+")",
-        "-webkit-transform" : "scale("+f+")",
-        "-ms-transform"     : "scale("+f+")",
-        "-o-transform"      : "scale("+f+")",
-        "transform"         : "scale("+f+")",
-        "left"              : ((containerw-(sitew*f))/2)+"px",
-        "top"               : "0px"
-    });
-}
-
-function isScalePossible()
-{
-    can = 'MozTransform' in document.body.style;
-    if(!can) can = 'webkitTransform' in document.body.style;
-    if(!can) can = 'msTransform' in document.body.style;
-    if(!can) can = 'OTransform' in document.body.style;
-    if(!can) can = 'transform' in document.body.style;
-    if(!can) can = 'Transform' in document.body.style;
-    return can;
-}
-
-</script>
-
 	<!-- end copy -->
   </head>
   <body>
 	<!-- copy these lines to your document: -->
 
 	<div id="formulaforthrillsportugalapp_hype_container" style="margin:auto;position:relative;width:1024px;height:690px;overflow:hidden;" aria-live="polite">
-		<script type="text/javascript" charset="utf-8" src="Formula_for_Thrills_Portugal_App.hyperesources/formulaforthrillsportugalapp_hype_generated_script.js?14880"></script>
+		<script type="text/javascript" charset="utf-8" src="Formula_for_Thrills_Portugal_App.hyperesources/formulaforthrillsportugalapp_hype_generated_script.js?71015"></script>
 	</div>
 
 	<!-- end copy -->

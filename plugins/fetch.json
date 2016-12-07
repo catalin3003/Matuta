@@ -1,0 +1,10 @@
+{
+    "cordova-plugin-screenorientation-landscape": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-screenorientation-landscape@1.0.22"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

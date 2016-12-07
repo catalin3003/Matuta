@@ -11,9 +11,5 @@
             "PACKAGE_NAME": "com.zincmedia.formulaforthrillsportugal"
         }
     },
-    "dependent_plugins": {},
-    "modules": [],
-    "plugin_metadata": {
-        "cordova-plugin-screenorientation-landscape": "1.0.22"
-    }
+    "dependent_plugins": {}
 }
