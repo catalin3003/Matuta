@@ -1,6 +1,6 @@
-# A Blank PhoneGap App
+# Siemens Formula for Thrills Portugal
 
-## Usage
+## iOS & Android
 
 ### PhoneGap CLI
 
