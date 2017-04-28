@@ -8,13 +8,13 @@
     </feature>
     <name>Thrills</name>
     <description>
-        Siemens Formula for Thrills Portugal
+        Formula for Thrills
     </description>
     <author email="catalin@redhearer.com" href="http://zincmedia.com">
         Zinc Media
     </author>
     <content src="index.html" />
-    <icon src="res/ios/icon-72-2x.png" />
+    <icon src="res/icon/ios/icon-72-2x.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

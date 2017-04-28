@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.zincmedia.formulaforthrillsportugal" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Formula for Thrills</name>
+    <name>Thrills</name>
     <description>
         Siemens Formula for Thrills Portugal
     </description>
@@ -22,7 +22,7 @@
    
     <plugin name="cordova-plugin-inappbrowser" source="npm" spec="~1.3.0" />
    
-    <icon src="icon.png" />
+    <icon src="res/icon/ios/icon-72-2x.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
