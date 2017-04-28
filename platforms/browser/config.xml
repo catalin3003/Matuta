@@ -14,7 +14,7 @@
         Zinc Media
     </author>
     <content src="index.html" />
-    <icon src="icon.png" />
+    <icon src="res/ios/icon-72-2x.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
