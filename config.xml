@@ -22,7 +22,7 @@
    
     <plugin name="cordova-plugin-inappbrowser" source="npm" spec="~1.3.0" />
    
-    <icon src="res/icon/ios/icon-72-2x.png" />
+    <icon src="platforms/browser/res/icon/ios/icon-72-2x.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
