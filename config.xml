@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.zincmedia.formulaforthrillsportugal" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Thrills</name>
-    <description>
-        Siemens Formula for Thrills Portugal
+    <name>Matuta</name>
+    <description>Matuta - Siemens Formula for Thrills Portugal
     </description>
-    <author email="catalin@redhearer.com" href="http://zincmedia.com">
-        Zinc Media
+    <author email="cat@catcodes.com" href="http://catcodes.com">
+        Catalin Magirescu
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true"/>

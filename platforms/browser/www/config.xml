@@ -6,12 +6,11 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>Thrills</name>
-    <description>
-        Siemens Formula for Thrills Portugal
+    <name>Matuta</name>
+    <description>Matuta - Siemens Formula for Thrills Portugal
     </description>
-    <author email="catalin@redhearer.com" href="http://zincmedia.com">
-        Zinc Media
+    <author email="cat@catcodes.com" href="http://catcodes.com">
+        Catalin Magirescu
     </author>
     <content src="index.html" />
     <icon src="platforms/browser/res/icon/ios/icon-72-2x.png" />

@@ -1,8 +1,8 @@
-# Siemens Formula for Thrills Portugal
+# Matuta - Siemens Formula for Thrills Portugal
 
 ## iOS & Android
 
-### PhoneGap CLI
+### CLI
 
     $ phonegap create my-app --template blank
 
