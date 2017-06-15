@@ -13,7 +13,12 @@
         Catalin Magirescu
     </author>
     <content src="index.html" />
-    <icon src="res/icon.png" />
+    <icon gap:platform="ios" height="57" src="res/icon-57.png" width="57" />
+    <icon gap:platform="ios" height="72" src="res/icon-72.png" width="72" />
+    <icon gap:platform="ios" height="114" src="res/icon-114.png" width="114" />
+    <icon gap:platform="ios" height="120" src="res/icon-120.png" width="120" />
+    <icon gap:platform="ios" height="144" src="res/icon-144.png" width="144" />
+    <icon gap:platform="ios" height="152" src="res/icon-152.png" width="152" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
