@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.zincmedia.formulaforthrillsportugal"
-        version="1.0.4"
-        versionCode="11"
+        version="1.0.5"
+        versionCode="12"
         xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0" >
 
