@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.zincmedia.formulaforthrillsportugal" version="1.0.5" versionCode="12" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.zincmedia.formulaforthrillsportugal" version="1.0.7" versionCode="15" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Matuta</name>
     <description>
         Matuta - Siemens Formula for Thrills Portugal
@@ -9,6 +9,57 @@
     </author>
     <icon src="icon.png" />
     <splash src="splash.png" />
+    <icon gap:platform="ios" height="29" src="res/ios/icon-small.png" width="29" />
+    <icon gap:platform="ios" height="36" src="res/ios/icon-36.png" width="36" />
+    <icon gap:platform="ios" height="40" src="res/ios/icon-40.png" width="40" />
+    <icon gap:platform="ios" height="80" src="res/ios/icon-40@2x.png" width="80" />
+    <icon gap:platform="ios" height="48" src="res/ios/icon-48.png" width="48" />
+    <icon gap:platform="ios" height="50" src="res/ios/icon-50.png" width="50" />
+    <icon gap:platform="ios" height="57" src="res/ios/icon.png" width="57" />
+    <icon gap:platform="ios" height="58" src="res/ios/icon-small@2x.png" width="58" />
+    <icon gap:platform="ios" height="60" src="res/ios/icon-60.png" width="60" />
+    <icon gap:platform="ios" height="62" src="res/ios/icon-62.png" width="62" />
+    <icon gap:platform="ios" height="64" src="res/ios/icon-64.png" width="64" />
+    <icon gap:platform="ios" height="72" src="res/ios/icon-72.png" width="72" />
+    <icon gap:platform="ios" height="76" src="res/ios/icon-76.png" width="76" />
+    <icon gap:platform="ios" height="96" src="res/ios/icon-96.png" width="96" />
+    <icon gap:platform="ios" height="100" src="res/ios/icon-50@x2.png" width="100" />
+    <icon gap:platform="ios" height="114" src="res/ios/icon@2x.png" width="114" />
+    <icon gap:platform="ios" height="120" src="res/ios/icon-60@2x.png" width="120" />
+    <icon gap:platform="ios" height="128" src="res/ios/icon-128.png" width="128" />
+    <icon gap:platform="ios" height="144" src="res/ios/icon-72@2x.png" width="144" />
+    <icon gap:platform="ios" height="152" src="res/ios/icon-76@2x.png" width="152" />
+    <icon gap:platform="ios" height="173" src="res/ios/icon-173.png" width="173" />
+    <icon gap:platform="ios" height="180" src="res/ios/icon-60@3x.png" width="180" />
+    <icon gap:platform="ios" height="256" src="res/ios/icon-256.png" width="256" />
+    <icon density="ldpi" gap:platform="android" src="res/android/ldpi.png" />
+    <icon density="mdpi" gap:platform="android" src="res/android/mdpi.png" />
+    <icon density="hdpi" gap:platform="android" src="res/android/hdpi.png" />
+    <icon density="xhdpi" gap:platform="android" src="res/android/xhdpi.png" />
+    <icon density="xxhdpi" gap:platform="android" src="res/android/xxhdpi.png" />
+    <icon density="xxxhdpi" gap:platform="android" src="res/android/xxxhdpi.png" />
+    <splash gap:platform="ios" height="480" src="res/screen/ios/Default~iphone.png" width="320" />
+    <splash gap:platform="ios" height="960" src="res/screen/ios/Default@2x~iphone.png" width="640" />
+    <splash gap:platform="ios" height="1024" src="res/screen/ios/Default-Portrait~ipad.png" width="768" />
+    <splash gap:platform="ios" height="2048" src="res/screen/ios/Default-Portrait@2x~ipad.png" width="1536" />
+    <splash gap:platform="ios" height="768" src="res/screen/ios/Default-Landscape~ipad.png" width="1024" />
+    <splash gap:platform="ios" height="1536" src="res/screen/ios/Default-Landscape@2x~ipad.png" width="2048" />
+    <splash gap:platform="ios" height="1136" src="res/screen/ios/Default-568h@2x~iphone.png" width="640" />
+    <splash gap:platform="ios" height="1334" src="res/screen/ios/Default-667h.png" width="750" />
+    <splash gap:platform="ios" height="2208" src="res/screen/ios/Default-736h.png" width="1242" />
+    <splash gap:platform="ios" height="1242" src="res/screen/ios/Default-Landscape-736h.png" width="2208" />
+    <splash density="land-hdpi" gap:platform="android" src="res/screen/android/splash-land-hdpi.png" />
+    <splash density="land-ldpi" gap:platform="android" src="res/screen/android/splash-land-ldpi.png" />
+    <splash density="land-mdpi" gap:platform="android" src="res/screen/android/splash-land-mdpi.png" />
+    <splash density="land-xhdpi" gap:platform="android" src="res/screen/android/splash-land-xhdpi.png" />
+    <splash density="land-xxhdpi" gap:platform="android" src="res/screen/android/splash-land-xxhdpi.png" />
+    <splash density="land-xxxhdpi" gap:platform="android" src="res/screen/android/splash-land-xxxhdpi.png" />
+    <splash density="port-hdpi" gap:platform="android" src="res/screen/android/splash-port-hdpi.png" />
+    <splash density="port-ldpi" gap:platform="android" src="res/screen/android/splash-port-ldpi.png" />
+    <splash density="port-mdpi" gap:platform="android" src="res/screen/android/splash-port-mdpi.png" />
+    <splash density="port-xhdpi" gap:platform="android" src="res/screen/android/splash-port-xhdpi.png" />
+    <splash density="port-xxhdpi" gap:platform="android" src="res/screen/android/splash-port-xxhdpi.png" />
+    <splash density="port-xxxhdpi" gap:platform="android" src="res/screen/android/splash-port-xxxhdpi.png" />
     <content src="index.html" />
     <access origin="" />
     <preference name="DisallowOverscroll" value="true" />
